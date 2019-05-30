@@ -55,13 +55,20 @@ For Fusion 360 users, download the full scene here: https://a360.co/2IkElyX
 	![enter image description here](https://lh3.googleusercontent.com/0xrP6mluJkvQsQl6rsxD-ChbcBjtATUkMHjW_Grtl6D0MRo1Rx_y9mofzgxFojF5t4LUqafcC4s)
 	       ![enter image description here](https://lh3.googleusercontent.com/6wicVMBEAnqODwlhhCknw6UQdv83xdO_pPiFaEBz5T98ZjTzQ5RlNs-REnpH8qJqyaoCgrUvffw)
 
-	-  [**Straps (2x)**](https://github.com/atmosxr/atmos-cad/tree/master/Straps)
+	-  [**Straps (>250mm build plate)**](https://github.com/atmosxr/atmos-cad/tree/master/Straps_Full)
 	    
 	    -   TPU, 20g each	        
 	![
 	](https://lh3.googleusercontent.com/nK1uMrTk8aYANSvr6kSVQnJUjk0M-x63WVEzPeWumgTD0R8JXCID6Fi3J5xphKRtEp-DnRWLSxM "Strap")
 ![
 ](https://lh3.googleusercontent.com/KoEa010QMkeBs816nCAsqLpbbUYrDMS1I3RpDZTlfXUeLmc_9Ihbbj4Lm1WzTgYG_cEohm0qnbo "Straps_Assembly")
+-  [**Straps (<250mm build plate)**](https://github.com/atmosxr/atmos-cad/tree/master/Straps_Pieces)
+	    
+	    -   TPU, 20g each	        
+	![](https://lh3.googleusercontent.com/dTqtQQMqFjvK7NflEMRfbtQNXiQ4rfkKkwEVs7Tpwmg-7_YdkQx5OWBoV0haNxVIee5Ob5W0zSE "Strap Pieces")
+	![](https://lh3.googleusercontent.com/COhh-rSLdtVPcx0fQYzIkEcFEwrL5dr0HOegshgVF0BNjgAH2lkQWlIbVPPFOZW8yN4ugi5UaRg "Strap Pieces Assembly")
+
+
 	-   [**Front Cover**](https://github.com/atmosxr/atmos-cad/tree/master/Front_Cover)
 	    
 	    -   PLA, 142g with supports, 72g final
