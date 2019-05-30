@@ -41,51 +41,50 @@ For Fusion 360 users, download the full scene here: https://a360.co/2IkElyX
 
  - **The Parts**
 
-	 -  Front Internals 1 (Eyepiece, foam holders)
+	 -  [**Front Internals 1**](https://github.com/atmosxr/atmos-cad/tree/master/Front_Internals_1)
 		 - PLA, 68g with supports, 53g final
 		 
 	![enter image description here](https://lh3.googleusercontent.com/zY8tWkmXOvHNCb9LZ8arov31gRxmtPkGfmMVptRgfzbejozMas6UqnZeHhSguALWV7Z6ok_W6XY "Front Internals 1 Buildplate")![](https://lh3.googleusercontent.com/VrCWfXrNbtdqF6I5mEuiBugP82HZQwREIaESiNfEVnXrOZwyqUmh3fE6zC4RFpQbkuDIfNP3d5s "Eyepiece Assembly")
 
-	-   **Front Internals 2 (Connector, screen holder)**
+	-   [**Front Internals 2**](https://github.com/atmosxr/atmos-cad/tree/master/Front_Internals_2)
 	    
 	    -   PLA, 64g with supports, 54g final
 	        
 		![
 	](https://lh3.googleusercontent.com/LP5xGYyEAo-bthTDHuyKmHNj0INaOtTDWn_kIS0RymaTBsmcZ82dtmfkfGzX65-_4D96mPaCVNQ "Front Internals 2 Buildplate")
-		    ![
-](https://lh3.googleusercontent.com/vpH3izPdT-xsSY98UhbKRTQnir3jDVlcvDefD4u7Ds9snusio0qLndJC9r-TRgyqWGAUc9d5b98 "FrontInternals_2_Assembly")
-![enter image description here](https://lh3.googleusercontent.com/wE6-qJ8axyCbhvQvMNF6SAgDzGDxbptKR5QA7CgEAAX3Sc3DF2vFMY0lTf4fiHNTJteB6DJcF5k)
-	-   **Straps (2x)**
+	![enter image description here](https://lh3.googleusercontent.com/0xrP6mluJkvQsQl6rsxD-ChbcBjtATUkMHjW_Grtl6D0MRo1Rx_y9mofzgxFojF5t4LUqafcC4s)
+	       ![enter image description here](https://lh3.googleusercontent.com/6wicVMBEAnqODwlhhCknw6UQdv83xdO_pPiFaEBz5T98ZjTzQ5RlNs-REnpH8qJqyaoCgrUvffw)
+
+	-  [**Straps (2x)**](https://github.com/atmosxr/atmos-cad/tree/master/Straps)
 	    
 	    -   TPU, 20g each	        
 	![
 	](https://lh3.googleusercontent.com/nK1uMrTk8aYANSvr6kSVQnJUjk0M-x63WVEzPeWumgTD0R8JXCID6Fi3J5xphKRtEp-DnRWLSxM "Strap")
 ![
 ](https://lh3.googleusercontent.com/KoEa010QMkeBs816nCAsqLpbbUYrDMS1I3RpDZTlfXUeLmc_9Ihbbj4Lm1WzTgYG_cEohm0qnbo "Straps_Assembly")
-	-   **Front Cover ()**
+	-   [**Front Cover**](https://github.com/atmosxr/atmos-cad/tree/master/Front_Cover)
 	    
 	    -   PLA, 142g with supports, 72g final
 		        
 		![
 	](https://lh3.googleusercontent.com/S5l0a2l1asN2iw1S36M-8Hdx41qS5ZerEFxXQd99gdBbX567aUR9qok_LWfHX3F1uln1OLndUwY "FrontCover")
 ![enter image description here](https://lh3.googleusercontent.com/XgpglyUPkGZkQ6Q9WR6Rk2bXDG4aEQ9pVupDm_iCcCWic6jvFXTG6VpL5AWPbORxwpF-0Xhx790 "FrontCover_Assembly")
-	-   **Back 1 (Back_Protector, Back_Foam_Top, Back_Foam_Bottom)**
+	-   [**Back 1**](https://github.com/atmosxr/atmos-cad/tree/master/Back_1)
 	    
 		-   PLA, 88g with supports, 78g final
 		    
 	![
 	](https://lh3.googleusercontent.com/eMlFrdefv9TH79Zby-0XwgaziW-WpQ9MfMWeC9mNieOiSIaQ9Rtoe73BAk0zekz3a3J9XqsJCfo "Back_1")
 ![enter image description here](https://lh3.googleusercontent.com/Z22kBaIwpGJkRLK2Hc1CD78JEuORi-O0mhK6d7WyfLEDo0ghetP4XYlrKtUZBQOuJfluYK57V9E "Back_Foam_Assembly")
-	-   **Back 2 (Back_Back)**
+	-   [**Back 2**](https://github.com/atmosxr/atmos-cad/tree/master/Back_2)
 	    
 	    -   PLA, 70g with supports, 63g final
 	        
 	![
 	](https://lh3.googleusercontent.com/425Q4XpVsqGuFB08r1kPpiA0KRu2IbjfhF8KwYm-uXzI-wJu22OB1rmGujzZ3vJ0Zl9MCHPs7p4 "Back_2")
-![
-](https://lh3.googleusercontent.com/BelBvihiKf3r6gY1f79Zfy39EB6As0iHzsj1pRQVvlNVB6B2Et0ZAzU0w_HlJpht9VmN3XB5r_8 "Back_Back_Assembly")
+![enter image description here](https://lh3.googleusercontent.com/BelBvihiKf3r6gY1f79Zfy39EB6As0iHzsj1pRQVvlNVB6B2Et0ZAzU0w_HlJpht9VmN3XB5r_8 "Back_Back_Assembly")
 
-	-   **Battery Pack**
+	-   [**Battery Pack**](https://github.com/atmosxr/atmos-cad/tree/master/Battery_Pack)
 	    -   PLA, 36g final
 
 	![enter image description here](https://lh3.googleusercontent.com/OqM5jQuczf6wRaBVkY0kguJdHHCJKp9mOaJviTm9-3ic1rIAChkhe-JOMwlhVNFjsGIbFT-RKTo "Battery_Pack")
