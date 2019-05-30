@@ -64,7 +64,7 @@ For Fusion 360 users, download the full scene here: https://a360.co/2IkElyX
 ](https://lh3.googleusercontent.com/KoEa010QMkeBs816nCAsqLpbbUYrDMS1I3RpDZTlfXUeLmc_9Ihbbj4Lm1WzTgYG_cEohm0qnbo "Straps_Assembly")
 -  [**Straps (<250mm build plate)**](https://github.com/atmosxr/atmos-cad/tree/master/Straps_Pieces)
 	    
-	    -   TPU, 20g each	        
+	    -   TPU, 22g each	        
 	![](https://lh3.googleusercontent.com/dTqtQQMqFjvK7NflEMRfbtQNXiQ4rfkKkwEVs7Tpwmg-7_YdkQx5OWBoV0haNxVIee5Ob5W0zSE "Strap Pieces")
 	![](https://lh3.googleusercontent.com/COhh-rSLdtVPcx0fQYzIkEcFEwrL5dr0HOegshgVF0BNjgAH2lkQWlIbVPPFOZW8yN4ugi5UaRg "Strap Pieces Assembly")
 
