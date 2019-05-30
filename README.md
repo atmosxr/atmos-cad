@@ -1,7 +1,7 @@
 
 ![enter image description here](https://lh3.googleusercontent.com/CVjcIuAI94TsZoXNlaEWYJ79Do1ioto6w9qa9QZW_CPgNatDnGhb7DsmWeyjIO5WupnwjtDBYBE "Full_Atmos_Headset")
 
-We have officially released our first batch of headset files! Our goal is to get these parts into as many printers, and hands, as possible, and take in your feedback to improve the headset in any way we can.
+We are excited to release our first batch of headset files! Our goal is to get these parts in as many printers, and hands, as possible, and take in your feedback to improve the headset shell in any way we can.
 
 As we work towards our production headset, there will be additional releases of new parts you can print, snap on, and join us in our development journey! 
 For any and all feedback, come chat in our #BetaPrinters channel in our Discord: https://discord.gg/mBuJUk
@@ -40,7 +40,6 @@ For Fusion 360 users, download the full scene here: https://a360.co/2IkElyX
 
 
  - **The Parts**
-
 
 	 -  [**Front Internals 1**]([https://github.com/atmosxr/atmos-cad/tree/master/Front_Internals_1](https://github.com/atmosxr/atmos-cad/tree/master/Front_Internals_1))
 		 - PLA, 68g with supports, 53g final
