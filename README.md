@@ -1,5 +1,5 @@
 
-![enter image description here](https://lh3.googleusercontent.com/CVjcIuAI94TsZoXNlaEWYJ79Do1ioto6w9qa9QZW_CPgNatDnGhb7DsmWeyjIO5WupnwjtDBYBE "Full_Atmos_Headset")
+![enter image description here](https://lh3.googleusercontent.com/W_mrSoI05rVBuxAGbPklTaLf-scGJE8UGRSWTLR0M7sebPlNxjRB7G9NmIi9rFI6sVOYsMvamFY)
 
 We are excited to release our first batch of headset files! Our goal is to get these parts in as many printers, and hands, as possible, and take in your feedback to improve the headset shell in any way we can.
 
