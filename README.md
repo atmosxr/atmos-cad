@@ -23,15 +23,15 @@ For Fusion 360 users, download the full scene here: https://a360.co/2IkElyX
 - Download a 3d Slicer ([Cura](https://ultimaker.com/en/products/ultimaker-cura-software?utm_source=cura&utm_medium=software&utm_campaign=sw-update))
 - Update the Printer Profile to match you printer
 - Level the 3d printer bed and apply an even coat of painter’s tape or adhesive
-  - Cura Settings (recommended)
-    - Layer Height: 0.2mm
-      - Initial Layer Height: 0.25mm
-      - Infill: 20%
-      - Infill Pattern: Triangles
-      - Supports: On, everywhere, and angle at 60 degrees
-      - Temperature: Based on Filament, check label
-      - Print Speed: 60-70mm/s
-      - Build Plate Adhesion: Skirt
+- Cura Settings (recommended)
+  - Layer Height: 0.2mm
+  - Initial Layer Height: 0.25mm
+  - Infill: 20%
+  - Infill Pattern: Triangles
+  - Supports: On, everywhere, and angle at 60 degrees
+  - Temperature: Based on Filament, check label
+  - Print Speed: 60-70mm/s
+  - Build Plate Adhesion: Skirt
 
 ## The Parts
 
