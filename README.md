@@ -43,8 +43,7 @@ For any and all feedback, come chat in our #BetaPrinters channel in our Discord:
 	 -  Front Internals 1 (Eyepiece, foam holders)
 		 - PLA, 68g with supports, 53g final
 		 
-	![enter image description here](https://lh3.googleusercontent.com/zY8tWkmXOvHNCb9LZ8arov31gRxmtPkGfmMVptRgfzbejozMas6UqnZeHhSguALWV7Z6ok_W6XY "Front Internals 1 Buildplate")
-![
+![](https://lh3.googleusercontent.com/zY8tWkmXOvHNCb9LZ8arov31gRxmtPkGfmMVptRgfzbejozMas6UqnZeHhSguALWV7Z6ok_W6XY "Front Internals 1 Buildplate")![
 ](https://lh3.googleusercontent.com/VrCWfXrNbtdqF6I5mEuiBugP82HZQwREIaESiNfEVnXrOZwyqUmh3fE6zC4RFpQbkuDIfNP3d5s "Eyepiece Assembly")
 
 	    
