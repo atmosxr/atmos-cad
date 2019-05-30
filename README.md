@@ -6,6 +6,7 @@ We are excited to release our first batch of headset files! Our goal is to get t
 As we work towards our production headset, there will be additional releases of new parts you can print, snap on, and join us in our development journey! 
 For any and all feedback, come chat in our #BetaPrinters channel in our Discord: https://discord.gg/mBuJUk
 
+For Fusion 360 users, download the full scene here: https://a360.co/2IkElyX
 
  -   **Materials**
 
@@ -39,13 +40,11 @@ For any and all feedback, come chat in our #BetaPrinters channel in our Discord:
 
 
  - **The Parts**
- 
+
 	 -  Front Internals 1 (Eyepiece, foam holders)
 		 - PLA, 68g with supports, 53g final
 		 
 	![enter image description here](https://lh3.googleusercontent.com/zY8tWkmXOvHNCb9LZ8arov31gRxmtPkGfmMVptRgfzbejozMas6UqnZeHhSguALWV7Z6ok_W6XY "Front Internals 1 Buildplate")![](https://lh3.googleusercontent.com/VrCWfXrNbtdqF6I5mEuiBugP82HZQwREIaESiNfEVnXrOZwyqUmh3fE6zC4RFpQbkuDIfNP3d5s "Eyepiece Assembly")
-
-	    
 
 	-   **Front Internals 2 (Connector, screen holder)**
 	    
@@ -55,10 +54,10 @@ For any and all feedback, come chat in our #BetaPrinters channel in our Discord:
 	](https://lh3.googleusercontent.com/LP5xGYyEAo-bthTDHuyKmHNj0INaOtTDWn_kIS0RymaTBsmcZ82dtmfkfGzX65-_4D96mPaCVNQ "Front Internals 2 Buildplate")
 		    ![
 ](https://lh3.googleusercontent.com/vpH3izPdT-xsSY98UhbKRTQnir3jDVlcvDefD4u7Ds9snusio0qLndJC9r-TRgyqWGAUc9d5b98 "FrontInternals_2_Assembly")
+![enter image description here](https://lh3.googleusercontent.com/wE6-qJ8axyCbhvQvMNF6SAgDzGDxbptKR5QA7CgEAAX3Sc3DF2vFMY0lTf4fiHNTJteB6DJcF5k)
 	-   **Straps (2x)**
 	    
-	    -   TPU, 20g each
-	        
+	    -   TPU, 20g each	        
 	![
 	](https://lh3.googleusercontent.com/nK1uMrTk8aYANSvr6kSVQnJUjk0M-x63WVEzPeWumgTD0R8JXCID6Fi3J5xphKRtEp-DnRWLSxM "Strap")
 ![
@@ -91,7 +90,6 @@ For any and all feedback, come chat in our #BetaPrinters channel in our Discord:
 
 	![enter image description here](https://lh3.googleusercontent.com/OqM5jQuczf6wRaBVkY0kguJdHHCJKp9mOaJviTm9-3ic1rIAChkhe-JOMwlhVNFjsGIbFT-RKTo "Battery_Pack")
 ![enter image description here](https://lh3.googleusercontent.com/VogDwC11_gmmY-VTfN0o4ve7OV4z-b9mNwi4bA3QakYamn28UnuBk7KRnM_KyIuiZOxuRhfkXzE "Battery_Assembly")
-
 
 
 
