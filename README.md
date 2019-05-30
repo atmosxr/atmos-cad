@@ -52,9 +52,9 @@ For Fusion 360 users, download the full scene here: https://a360.co/2IkElyX
 	        
 		![
 	](https://lh3.googleusercontent.com/LP5xGYyEAo-bthTDHuyKmHNj0INaOtTDWn_kIS0RymaTBsmcZ82dtmfkfGzX65-_4D96mPaCVNQ "Front Internals 2 Buildplate")
-		    ![
-](https://lh3.googleusercontent.com/vpH3izPdT-xsSY98UhbKRTQnir3jDVlcvDefD4u7Ds9snusio0qLndJC9r-TRgyqWGAUc9d5b98 "FrontInternals_2_Assembly")
-![enter image description here](https://lh3.googleusercontent.com/wE6-qJ8axyCbhvQvMNF6SAgDzGDxbptKR5QA7CgEAAX3Sc3DF2vFMY0lTf4fiHNTJteB6DJcF5k)
+	![enter image description here](https://lh3.googleusercontent.com/0xrP6mluJkvQsQl6rsxD-ChbcBjtATUkMHjW_Grtl6D0MRo1Rx_y9mofzgxFojF5t4LUqafcC4s)
+	       ![enter image description here](https://lh3.googleusercontent.com/6wicVMBEAnqODwlhhCknw6UQdv83xdO_pPiFaEBz5T98ZjTzQ5RlNs-REnpH8qJqyaoCgrUvffw)
+
 	-   **Straps (2x)**
 	    
 	    -   TPU, 20g each	        
