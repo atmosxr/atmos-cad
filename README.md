@@ -1,5 +1,5 @@
 
-![enter image description here](https://lh3.googleusercontent.com/W_mrSoI05rVBuxAGbPklTaLf-scGJE8UGRSWTLR0M7sebPlNxjRB7G9NmIi9rFI6sVOYsMvamFY)
+![enter image description here](https://lh3.googleusercontent.com/43BG5MUEyx7X-owoL4x_4E0_WkKS_zfmk8UUg_qK5pMBhJnRpMWrpGYay-QIOLux_W41EVIwOJo)
 
 We are excited to release our first batch of headset files! Our goal is to get these parts in as many printers, and hands, as possible, and take in your feedback to improve the headset shell in any way we can.
 
