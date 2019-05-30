@@ -41,7 +41,7 @@ For Fusion 360 users, download the full scene here: https://a360.co/2IkElyX
 
  - **The Parts**
 
-	 -  ![**Front Internals 1**]([https://github.com/atmosxr/atmos-cad/tree/master/Front_Internals_1)
+	 -  [**Front Internals 1**](https://www.youtube.com/watch?v=taD9hqwCb1o)
 		 - PLA, 68g with supports, 53g final
 		 
 	![enter image description here](https://lh3.googleusercontent.com/zY8tWkmXOvHNCb9LZ8arov31gRxmtPkGfmMVptRgfzbejozMas6UqnZeHhSguALWV7Z6ok_W6XY "Front Internals 1 Buildplate")![](https://lh3.googleusercontent.com/VrCWfXrNbtdqF6I5mEuiBugP82HZQwREIaESiNfEVnXrOZwyqUmh3fE6zC4RFpQbkuDIfNP3d5s "Eyepiece Assembly")
